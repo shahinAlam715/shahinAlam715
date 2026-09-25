@@ -116,35 +116,6 @@ modern, responsive, and user-friendly web applications.
 
 ---
 
-
-
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
-
-## 🚀 Featured Projects
-
-<p align="center">
-
-  <a href="https://github.com/shahinAlam715/hekto-ecomerce">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shahinAlam715&repo=hekto-ecomerce&theme=tokyonight&hide_border=true"
-      alt="Hekto E-commerce"
-    />
-  </a>
-
-  <a href="https://github.com/shahinAlam715/dream-bpl-sestion">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shahinAlam715&repo=dream-bpl-sestion&theme=tokyonight&hide_border=true"
-      alt="Dream BPL Session"
-    />
-  </a>
-
-</p>
-
----
-
-
 <!-- ========================================================= -->
 <!--                    CONNECT WITH ME                       -->
 <!-- ========================================================= -->
